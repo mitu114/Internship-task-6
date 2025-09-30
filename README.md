@@ -7,6 +7,9 @@ STEPS PERFORMED
 3. Imported the file in MySQL and then analyzed the revenue and sales trend using MySQL queries.
 
 Three Files are loaded in the files section:
+
 1 .SQL File - Contains all the queries used to analyze the dataset.
+
 2 .pynb file - Conatins all the code used for checking for nulls,removing them and changing datatypes into the appropriate form.
+
 3 .PDF file - Contains all the screenshots of the outputs after executing the queries in MySQL.
